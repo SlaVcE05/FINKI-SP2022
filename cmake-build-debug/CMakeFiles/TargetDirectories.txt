@@ -1,0 +1,8 @@
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/SP2022.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad1.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad2.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad3.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad4.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad7.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
