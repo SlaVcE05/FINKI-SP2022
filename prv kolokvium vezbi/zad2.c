@@ -30,4 +30,5 @@ int main(){
 
     printf("%d",nb);
 
+    return 0;
 }

@@ -34,5 +34,5 @@ int main(){
         printf("%d\n",bb);
     else printf("NE");
 
-
+    return 0;
 }
