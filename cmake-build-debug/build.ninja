@@ -82,8 +82,8 @@ build SP2022.exe: C_EXECUTABLE_LINKER__SP2022_Debug CMakeFiles/SP2022.dir/main.c
 
 build cmake_object_order_depends_target_I_zad1: phony || CMakeFiles/I_zad1.dir
 
-build CMakeFiles/I_zad1.dir/prv_kolokvium_vezbi/zad1.c.obj: C_COMPILER__I_zad1_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad1.c || cmake_object_order_depends_target_I_zad1
-  DEP_FILE = CMakeFiles\I_zad1.dir\prv_kolokvium_vezbi\zad1.c.obj.d
+build CMakeFiles/I_zad1.dir/prv_kolokvium_vezbi/zad_1.c.obj: C_COMPILER__I_zad1_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_1.c || cmake_object_order_depends_target_I_zad1
+  DEP_FILE = CMakeFiles\I_zad1.dir\prv_kolokvium_vezbi\zad_1.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad1.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad1.dir\prv_kolokvium_vezbi
@@ -96,7 +96,7 @@ build CMakeFiles/I_zad1.dir/prv_kolokvium_vezbi/zad1.c.obj: C_COMPILER__I_zad1_D
 #############################################
 # Link the executable I_zad1.exe
 
-build I_zad1.exe: C_EXECUTABLE_LINKER__I_zad1_Debug CMakeFiles/I_zad1.dir/prv_kolokvium_vezbi/zad1.c.obj
+build I_zad1.exe: C_EXECUTABLE_LINKER__I_zad1_Debug CMakeFiles/I_zad1.dir/prv_kolokvium_vezbi/zad_1.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad1.dir
@@ -115,8 +115,8 @@ build I_zad1.exe: C_EXECUTABLE_LINKER__I_zad1_Debug CMakeFiles/I_zad1.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad2: phony || CMakeFiles/I_zad2.dir
 
-build CMakeFiles/I_zad2.dir/prv_kolokvium_vezbi/zad2.c.obj: C_COMPILER__I_zad2_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad2.c || cmake_object_order_depends_target_I_zad2
-  DEP_FILE = CMakeFiles\I_zad2.dir\prv_kolokvium_vezbi\zad2.c.obj.d
+build CMakeFiles/I_zad2.dir/prv_kolokvium_vezbi/zad_2.c.obj: C_COMPILER__I_zad2_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_2.c || cmake_object_order_depends_target_I_zad2
+  DEP_FILE = CMakeFiles\I_zad2.dir\prv_kolokvium_vezbi\zad_2.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad2.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad2.dir\prv_kolokvium_vezbi
@@ -129,7 +129,7 @@ build CMakeFiles/I_zad2.dir/prv_kolokvium_vezbi/zad2.c.obj: C_COMPILER__I_zad2_D
 #############################################
 # Link the executable I_zad2.exe
 
-build I_zad2.exe: C_EXECUTABLE_LINKER__I_zad2_Debug CMakeFiles/I_zad2.dir/prv_kolokvium_vezbi/zad2.c.obj
+build I_zad2.exe: C_EXECUTABLE_LINKER__I_zad2_Debug CMakeFiles/I_zad2.dir/prv_kolokvium_vezbi/zad_2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad2.dir
@@ -148,8 +148,8 @@ build I_zad2.exe: C_EXECUTABLE_LINKER__I_zad2_Debug CMakeFiles/I_zad2.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad3: phony || CMakeFiles/I_zad3.dir
 
-build CMakeFiles/I_zad3.dir/prv_kolokvium_vezbi/zad3.c.obj: C_COMPILER__I_zad3_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad3.c || cmake_object_order_depends_target_I_zad3
-  DEP_FILE = CMakeFiles\I_zad3.dir\prv_kolokvium_vezbi\zad3.c.obj.d
+build CMakeFiles/I_zad3.dir/prv_kolokvium_vezbi/zad_3.c.obj: C_COMPILER__I_zad3_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_3.c || cmake_object_order_depends_target_I_zad3
+  DEP_FILE = CMakeFiles\I_zad3.dir\prv_kolokvium_vezbi\zad_3.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad3.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad3.dir\prv_kolokvium_vezbi
@@ -162,7 +162,7 @@ build CMakeFiles/I_zad3.dir/prv_kolokvium_vezbi/zad3.c.obj: C_COMPILER__I_zad3_D
 #############################################
 # Link the executable I_zad3.exe
 
-build I_zad3.exe: C_EXECUTABLE_LINKER__I_zad3_Debug CMakeFiles/I_zad3.dir/prv_kolokvium_vezbi/zad3.c.obj
+build I_zad3.exe: C_EXECUTABLE_LINKER__I_zad3_Debug CMakeFiles/I_zad3.dir/prv_kolokvium_vezbi/zad_3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad3.dir
@@ -181,8 +181,8 @@ build I_zad3.exe: C_EXECUTABLE_LINKER__I_zad3_Debug CMakeFiles/I_zad3.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad4: phony || CMakeFiles/I_zad4.dir
 
-build CMakeFiles/I_zad4.dir/prv_kolokvium_vezbi/zad4.c.obj: C_COMPILER__I_zad4_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad4.c || cmake_object_order_depends_target_I_zad4
-  DEP_FILE = CMakeFiles\I_zad4.dir\prv_kolokvium_vezbi\zad4.c.obj.d
+build CMakeFiles/I_zad4.dir/prv_kolokvium_vezbi/zad_4.c.obj: C_COMPILER__I_zad4_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_4.c || cmake_object_order_depends_target_I_zad4
+  DEP_FILE = CMakeFiles\I_zad4.dir\prv_kolokvium_vezbi\zad_4.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad4.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad4.dir\prv_kolokvium_vezbi
@@ -195,7 +195,7 @@ build CMakeFiles/I_zad4.dir/prv_kolokvium_vezbi/zad4.c.obj: C_COMPILER__I_zad4_D
 #############################################
 # Link the executable I_zad4.exe
 
-build I_zad4.exe: C_EXECUTABLE_LINKER__I_zad4_Debug CMakeFiles/I_zad4.dir/prv_kolokvium_vezbi/zad4.c.obj
+build I_zad4.exe: C_EXECUTABLE_LINKER__I_zad4_Debug CMakeFiles/I_zad4.dir/prv_kolokvium_vezbi/zad_4.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad4.dir
@@ -214,8 +214,8 @@ build I_zad4.exe: C_EXECUTABLE_LINKER__I_zad4_Debug CMakeFiles/I_zad4.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad5: phony || CMakeFiles/I_zad5.dir
 
-build CMakeFiles/I_zad5.dir/prv_kolokvium_vezbi/zad5.c.obj: C_COMPILER__I_zad5_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad5.c || cmake_object_order_depends_target_I_zad5
-  DEP_FILE = CMakeFiles\I_zad5.dir\prv_kolokvium_vezbi\zad5.c.obj.d
+build CMakeFiles/I_zad5.dir/prv_kolokvium_vezbi/zad_5.c.obj: C_COMPILER__I_zad5_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_5.c || cmake_object_order_depends_target_I_zad5
+  DEP_FILE = CMakeFiles\I_zad5.dir\prv_kolokvium_vezbi\zad_5.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad5.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad5.dir\prv_kolokvium_vezbi
@@ -228,7 +228,7 @@ build CMakeFiles/I_zad5.dir/prv_kolokvium_vezbi/zad5.c.obj: C_COMPILER__I_zad5_D
 #############################################
 # Link the executable I_zad5.exe
 
-build I_zad5.exe: C_EXECUTABLE_LINKER__I_zad5_Debug CMakeFiles/I_zad5.dir/prv_kolokvium_vezbi/zad5.c.obj
+build I_zad5.exe: C_EXECUTABLE_LINKER__I_zad5_Debug CMakeFiles/I_zad5.dir/prv_kolokvium_vezbi/zad_5.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad5.dir
@@ -247,8 +247,8 @@ build I_zad5.exe: C_EXECUTABLE_LINKER__I_zad5_Debug CMakeFiles/I_zad5.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad6: phony || CMakeFiles/I_zad6.dir
 
-build CMakeFiles/I_zad6.dir/prv_kolokvium_vezbi/zad6.c.obj: C_COMPILER__I_zad6_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad6.c || cmake_object_order_depends_target_I_zad6
-  DEP_FILE = CMakeFiles\I_zad6.dir\prv_kolokvium_vezbi\zad6.c.obj.d
+build CMakeFiles/I_zad6.dir/prv_kolokvium_vezbi/zad_6.c.obj: C_COMPILER__I_zad6_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_6.c || cmake_object_order_depends_target_I_zad6
+  DEP_FILE = CMakeFiles\I_zad6.dir\prv_kolokvium_vezbi\zad_6.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad6.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad6.dir\prv_kolokvium_vezbi
@@ -261,7 +261,7 @@ build CMakeFiles/I_zad6.dir/prv_kolokvium_vezbi/zad6.c.obj: C_COMPILER__I_zad6_D
 #############################################
 # Link the executable I_zad6.exe
 
-build I_zad6.exe: C_EXECUTABLE_LINKER__I_zad6_Debug CMakeFiles/I_zad6.dir/prv_kolokvium_vezbi/zad6.c.obj
+build I_zad6.exe: C_EXECUTABLE_LINKER__I_zad6_Debug CMakeFiles/I_zad6.dir/prv_kolokvium_vezbi/zad_6.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad6.dir
@@ -280,8 +280,8 @@ build I_zad6.exe: C_EXECUTABLE_LINKER__I_zad6_Debug CMakeFiles/I_zad6.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad7: phony || CMakeFiles/I_zad7.dir
 
-build CMakeFiles/I_zad7.dir/prv_kolokvium_vezbi/zad7.c.obj: C_COMPILER__I_zad7_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad7.c || cmake_object_order_depends_target_I_zad7
-  DEP_FILE = CMakeFiles\I_zad7.dir\prv_kolokvium_vezbi\zad7.c.obj.d
+build CMakeFiles/I_zad7.dir/prv_kolokvium_vezbi/zad_7.c.obj: C_COMPILER__I_zad7_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_7.c || cmake_object_order_depends_target_I_zad7
+  DEP_FILE = CMakeFiles\I_zad7.dir\prv_kolokvium_vezbi\zad_7.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad7.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad7.dir\prv_kolokvium_vezbi
@@ -294,7 +294,7 @@ build CMakeFiles/I_zad7.dir/prv_kolokvium_vezbi/zad7.c.obj: C_COMPILER__I_zad7_D
 #############################################
 # Link the executable I_zad7.exe
 
-build I_zad7.exe: C_EXECUTABLE_LINKER__I_zad7_Debug CMakeFiles/I_zad7.dir/prv_kolokvium_vezbi/zad7.c.obj
+build I_zad7.exe: C_EXECUTABLE_LINKER__I_zad7_Debug CMakeFiles/I_zad7.dir/prv_kolokvium_vezbi/zad_7.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad7.dir
@@ -313,8 +313,8 @@ build I_zad7.exe: C_EXECUTABLE_LINKER__I_zad7_Debug CMakeFiles/I_zad7.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad8: phony || CMakeFiles/I_zad8.dir
 
-build CMakeFiles/I_zad8.dir/prv_kolokvium_vezbi/zad8.c.obj: C_COMPILER__I_zad8_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad8.c || cmake_object_order_depends_target_I_zad8
-  DEP_FILE = CMakeFiles\I_zad8.dir\prv_kolokvium_vezbi\zad8.c.obj.d
+build CMakeFiles/I_zad8.dir/prv_kolokvium_vezbi/zad_8.c.obj: C_COMPILER__I_zad8_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_8.c || cmake_object_order_depends_target_I_zad8
+  DEP_FILE = CMakeFiles\I_zad8.dir\prv_kolokvium_vezbi\zad_8.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad8.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad8.dir\prv_kolokvium_vezbi
@@ -327,7 +327,7 @@ build CMakeFiles/I_zad8.dir/prv_kolokvium_vezbi/zad8.c.obj: C_COMPILER__I_zad8_D
 #############################################
 # Link the executable I_zad8.exe
 
-build I_zad8.exe: C_EXECUTABLE_LINKER__I_zad8_Debug CMakeFiles/I_zad8.dir/prv_kolokvium_vezbi/zad8.c.obj
+build I_zad8.exe: C_EXECUTABLE_LINKER__I_zad8_Debug CMakeFiles/I_zad8.dir/prv_kolokvium_vezbi/zad_8.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad8.dir
@@ -346,8 +346,8 @@ build I_zad8.exe: C_EXECUTABLE_LINKER__I_zad8_Debug CMakeFiles/I_zad8.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad9: phony || CMakeFiles/I_zad9.dir
 
-build CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad9.c.obj: C_COMPILER__I_zad9_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad9.c || cmake_object_order_depends_target_I_zad9
-  DEP_FILE = CMakeFiles\I_zad9.dir\prv_kolokvium_vezbi\zad9.c.obj.d
+build CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad_9.c.obj: C_COMPILER__I_zad9_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_9.c || cmake_object_order_depends_target_I_zad9
+  DEP_FILE = CMakeFiles\I_zad9.dir\prv_kolokvium_vezbi\zad_9.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad9.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad9.dir\prv_kolokvium_vezbi
@@ -360,7 +360,7 @@ build CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad9.c.obj: C_COMPILER__I_zad9_D
 #############################################
 # Link the executable I_zad9.exe
 
-build I_zad9.exe: C_EXECUTABLE_LINKER__I_zad9_Debug CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad9.c.obj
+build I_zad9.exe: C_EXECUTABLE_LINKER__I_zad9_Debug CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad_9.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad9.dir
@@ -379,8 +379,8 @@ build I_zad9.exe: C_EXECUTABLE_LINKER__I_zad9_Debug CMakeFiles/I_zad9.dir/prv_ko
 
 build cmake_object_order_depends_target_I_zad10: phony || CMakeFiles/I_zad10.dir
 
-build CMakeFiles/I_zad10.dir/prv_kolokvium_vezbi/zad10.c.obj: C_COMPILER__I_zad10_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad10.c || cmake_object_order_depends_target_I_zad10
-  DEP_FILE = CMakeFiles\I_zad10.dir\prv_kolokvium_vezbi\zad10.c.obj.d
+build CMakeFiles/I_zad10.dir/prv_kolokvium_vezbi/zad_10.c.obj: C_COMPILER__I_zad10_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_10.c || cmake_object_order_depends_target_I_zad10
+  DEP_FILE = CMakeFiles\I_zad10.dir\prv_kolokvium_vezbi\zad_10.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad10.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad10.dir\prv_kolokvium_vezbi
@@ -393,7 +393,7 @@ build CMakeFiles/I_zad10.dir/prv_kolokvium_vezbi/zad10.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad10.exe
 
-build I_zad10.exe: C_EXECUTABLE_LINKER__I_zad10_Debug CMakeFiles/I_zad10.dir/prv_kolokvium_vezbi/zad10.c.obj
+build I_zad10.exe: C_EXECUTABLE_LINKER__I_zad10_Debug CMakeFiles/I_zad10.dir/prv_kolokvium_vezbi/zad_10.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad10.dir
@@ -412,8 +412,8 @@ build I_zad10.exe: C_EXECUTABLE_LINKER__I_zad10_Debug CMakeFiles/I_zad10.dir/prv
 
 build cmake_object_order_depends_target_I_zad11: phony || CMakeFiles/I_zad11.dir
 
-build CMakeFiles/I_zad11.dir/prv_kolokvium_vezbi/zad11.c.obj: C_COMPILER__I_zad11_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad11.c || cmake_object_order_depends_target_I_zad11
-  DEP_FILE = CMakeFiles\I_zad11.dir\prv_kolokvium_vezbi\zad11.c.obj.d
+build CMakeFiles/I_zad11.dir/prv_kolokvium_vezbi/zad_11.c.obj: C_COMPILER__I_zad11_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_11.c || cmake_object_order_depends_target_I_zad11
+  DEP_FILE = CMakeFiles\I_zad11.dir\prv_kolokvium_vezbi\zad_11.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad11.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad11.dir\prv_kolokvium_vezbi
@@ -426,7 +426,7 @@ build CMakeFiles/I_zad11.dir/prv_kolokvium_vezbi/zad11.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad11.exe
 
-build I_zad11.exe: C_EXECUTABLE_LINKER__I_zad11_Debug CMakeFiles/I_zad11.dir/prv_kolokvium_vezbi/zad11.c.obj
+build I_zad11.exe: C_EXECUTABLE_LINKER__I_zad11_Debug CMakeFiles/I_zad11.dir/prv_kolokvium_vezbi/zad_11.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad11.dir
@@ -445,8 +445,8 @@ build I_zad11.exe: C_EXECUTABLE_LINKER__I_zad11_Debug CMakeFiles/I_zad11.dir/prv
 
 build cmake_object_order_depends_target_I_zad12: phony || CMakeFiles/I_zad12.dir
 
-build CMakeFiles/I_zad12.dir/prv_kolokvium_vezbi/zad12.c.obj: C_COMPILER__I_zad12_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad12.c || cmake_object_order_depends_target_I_zad12
-  DEP_FILE = CMakeFiles\I_zad12.dir\prv_kolokvium_vezbi\zad12.c.obj.d
+build CMakeFiles/I_zad12.dir/prv_kolokvium_vezbi/zad_12.c.obj: C_COMPILER__I_zad12_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_12.c || cmake_object_order_depends_target_I_zad12
+  DEP_FILE = CMakeFiles\I_zad12.dir\prv_kolokvium_vezbi\zad_12.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad12.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad12.dir\prv_kolokvium_vezbi
@@ -459,7 +459,7 @@ build CMakeFiles/I_zad12.dir/prv_kolokvium_vezbi/zad12.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad12.exe
 
-build I_zad12.exe: C_EXECUTABLE_LINKER__I_zad12_Debug CMakeFiles/I_zad12.dir/prv_kolokvium_vezbi/zad12.c.obj
+build I_zad12.exe: C_EXECUTABLE_LINKER__I_zad12_Debug CMakeFiles/I_zad12.dir/prv_kolokvium_vezbi/zad_12.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad12.dir
@@ -478,8 +478,8 @@ build I_zad12.exe: C_EXECUTABLE_LINKER__I_zad12_Debug CMakeFiles/I_zad12.dir/prv
 
 build cmake_object_order_depends_target_I_zad13: phony || CMakeFiles/I_zad13.dir
 
-build CMakeFiles/I_zad13.dir/prv_kolokvium_vezbi/zad13.c.obj: C_COMPILER__I_zad13_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad13.c || cmake_object_order_depends_target_I_zad13
-  DEP_FILE = CMakeFiles\I_zad13.dir\prv_kolokvium_vezbi\zad13.c.obj.d
+build CMakeFiles/I_zad13.dir/prv_kolokvium_vezbi/zad_13.c.obj: C_COMPILER__I_zad13_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_13.c || cmake_object_order_depends_target_I_zad13
+  DEP_FILE = CMakeFiles\I_zad13.dir\prv_kolokvium_vezbi\zad_13.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad13.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad13.dir\prv_kolokvium_vezbi
@@ -492,7 +492,7 @@ build CMakeFiles/I_zad13.dir/prv_kolokvium_vezbi/zad13.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad13.exe
 
-build I_zad13.exe: C_EXECUTABLE_LINKER__I_zad13_Debug CMakeFiles/I_zad13.dir/prv_kolokvium_vezbi/zad13.c.obj
+build I_zad13.exe: C_EXECUTABLE_LINKER__I_zad13_Debug CMakeFiles/I_zad13.dir/prv_kolokvium_vezbi/zad_13.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad13.dir
@@ -511,8 +511,8 @@ build I_zad13.exe: C_EXECUTABLE_LINKER__I_zad13_Debug CMakeFiles/I_zad13.dir/prv
 
 build cmake_object_order_depends_target_I_zad14: phony || CMakeFiles/I_zad14.dir
 
-build CMakeFiles/I_zad14.dir/prv_kolokvium_vezbi/zad14.c.obj: C_COMPILER__I_zad14_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad14.c || cmake_object_order_depends_target_I_zad14
-  DEP_FILE = CMakeFiles\I_zad14.dir\prv_kolokvium_vezbi\zad14.c.obj.d
+build CMakeFiles/I_zad14.dir/prv_kolokvium_vezbi/zad_14.c.obj: C_COMPILER__I_zad14_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_14.c || cmake_object_order_depends_target_I_zad14
+  DEP_FILE = CMakeFiles\I_zad14.dir\prv_kolokvium_vezbi\zad_14.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad14.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad14.dir\prv_kolokvium_vezbi
@@ -525,7 +525,7 @@ build CMakeFiles/I_zad14.dir/prv_kolokvium_vezbi/zad14.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad14.exe
 
-build I_zad14.exe: C_EXECUTABLE_LINKER__I_zad14_Debug CMakeFiles/I_zad14.dir/prv_kolokvium_vezbi/zad14.c.obj
+build I_zad14.exe: C_EXECUTABLE_LINKER__I_zad14_Debug CMakeFiles/I_zad14.dir/prv_kolokvium_vezbi/zad_14.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad14.dir
@@ -544,8 +544,8 @@ build I_zad14.exe: C_EXECUTABLE_LINKER__I_zad14_Debug CMakeFiles/I_zad14.dir/prv
 
 build cmake_object_order_depends_target_I_zad15: phony || CMakeFiles/I_zad15.dir
 
-build CMakeFiles/I_zad15.dir/prv_kolokvium_vezbi/zad15.c.obj: C_COMPILER__I_zad15_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad15.c || cmake_object_order_depends_target_I_zad15
-  DEP_FILE = CMakeFiles\I_zad15.dir\prv_kolokvium_vezbi\zad15.c.obj.d
+build CMakeFiles/I_zad15.dir/prv_kolokvium_vezbi/zad_15.c.obj: C_COMPILER__I_zad15_Debug D$:/Programirane/C/CLion/SP2022/prv$ kolokvium$ vezbi/zad_15.c || cmake_object_order_depends_target_I_zad15
+  DEP_FILE = CMakeFiles\I_zad15.dir\prv_kolokvium_vezbi\zad_15.c.obj.d
   FLAGS = -g -std=gnu99
   OBJECT_DIR = CMakeFiles\I_zad15.dir
   OBJECT_FILE_DIR = CMakeFiles\I_zad15.dir\prv_kolokvium_vezbi
@@ -558,7 +558,7 @@ build CMakeFiles/I_zad15.dir/prv_kolokvium_vezbi/zad15.c.obj: C_COMPILER__I_zad1
 #############################################
 # Link the executable I_zad15.exe
 
-build I_zad15.exe: C_EXECUTABLE_LINKER__I_zad15_Debug CMakeFiles/I_zad15.dir/prv_kolokvium_vezbi/zad15.c.obj
+build I_zad15.exe: C_EXECUTABLE_LINKER__I_zad15_Debug CMakeFiles/I_zad15.dir/prv_kolokvium_vezbi/zad_15.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\I_zad15.dir
