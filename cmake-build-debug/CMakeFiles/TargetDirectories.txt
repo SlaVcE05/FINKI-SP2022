@@ -3,6 +3,16 @@ D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad1.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad2.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad3.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad4.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad5.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad6.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad7.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad8.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad9.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad10.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad11.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad12.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad13.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad14.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad15.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir

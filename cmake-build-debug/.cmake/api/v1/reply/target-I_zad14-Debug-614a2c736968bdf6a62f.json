@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "I_zad1.exe"
+			"path" : "I_zad14.exe"
 		},
 		{
-			"path" : "I_zad1.pdb"
+			"path" : "I_zad14.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 20,
 				"parent" : 0
 			}
 		]
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "I_zad1::@6890427a1f51a3e7e1df",
+	"id" : "I_zad14::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "I_zad1",
-	"nameOnDisk" : "I_zad1.exe",
+	"name" : "I_zad14",
+	"nameOnDisk" : "I_zad14.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "prv kolokvium/zad1.c",
+			"path" : "prv kolokvium vezbi/zad14.c",
 			"sourceGroupIndex" : 0
 		}
 	],
