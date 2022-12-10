@@ -7,19 +7,17 @@ int check(int a[], int n){
     int count = 0;
 
 
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n-1; ++i) {
         if(a[i] < a[i+1]){
             length2++;
             if (!count)
                 count = 1;
-        } else{
-            if(length2 > length1)
-                length1 = length2;
+        } else if(count){
             length2 = 1;
-            if (count)
-                count = 0;
+            count = 0;
         }
-
+        if(length2 > length1)
+            length1 = length2;
     }
     return length1;
 }
