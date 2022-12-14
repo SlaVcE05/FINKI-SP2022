@@ -700,6 +700,39 @@ build Lab655.exe: C_EXECUTABLE_LINKER__Lab655_Debug CMakeFiles/Lab655.dir/labs/l
   TARGET_IMPLIB = libLab655.dll.a
   TARGET_PDB = Lab655.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Lab52
+
+
+#############################################
+# Order-only phony target for Lab52
+
+build cmake_object_order_depends_target_Lab52: phony || CMakeFiles/Lab52.dir
+
+build CMakeFiles/Lab52.dir/labs/lab5_2.c.obj: C_COMPILER__Lab52_Debug D$:/Programirane/C/CLion/SP2022/labs/lab5_2.c || cmake_object_order_depends_target_Lab52
+  DEP_FILE = CMakeFiles\Lab52.dir\labs\lab5_2.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Lab52.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab52.dir\labs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Lab52
+
+
+#############################################
+# Link the executable Lab52.exe
+
+build Lab52.exe: C_EXECUTABLE_LINKER__Lab52_Debug CMakeFiles/Lab52.dir/labs/lab5_2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Lab52.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Lab52.exe
+  TARGET_IMPLIB = libLab52.dll.a
+  TARGET_PDB = Lab52.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -756,6 +789,8 @@ build I_zad8: phony I_zad8.exe
 
 build I_zad9: phony I_zad9.exe
 
+build Lab52: phony Lab52.exe
+
 build Lab53: phony Lab53.exe
 
 build Lab64: phony Lab64.exe
@@ -774,7 +809,7 @@ build SP2022: phony SP2022.exe
 #############################################
 # Folder: D:/Programirane/C/CLion/SP2022/cmake-build-debug
 
-build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe
+build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe
 
 # =============================================================================
 # Built-in targets
