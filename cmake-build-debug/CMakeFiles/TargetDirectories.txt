@@ -19,5 +19,7 @@ D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab64.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab65.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab655.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab52.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab72.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab83.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
