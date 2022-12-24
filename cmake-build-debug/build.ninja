@@ -799,6 +799,105 @@ build Lab83.exe: C_EXECUTABLE_LINKER__Lab83_Debug CMakeFiles/Lab83.dir/labs/lab8
   TARGET_IMPLIB = libLab83.dll.a
   TARGET_PDB = Lab83.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Lab81
+
+
+#############################################
+# Order-only phony target for Lab81
+
+build cmake_object_order_depends_target_Lab81: phony || CMakeFiles/Lab81.dir
+
+build CMakeFiles/Lab81.dir/labs/lab8_1.c.obj: C_COMPILER__Lab81_Debug D$:/Programirane/C/CLion/SP2022/labs/lab8_1.c || cmake_object_order_depends_target_Lab81
+  DEP_FILE = CMakeFiles\Lab81.dir\labs\lab8_1.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Lab81.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab81.dir\labs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Lab81
+
+
+#############################################
+# Link the executable Lab81.exe
+
+build Lab81.exe: C_EXECUTABLE_LINKER__Lab81_Debug CMakeFiles/Lab81.dir/labs/lab8_1.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Lab81.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Lab81.exe
+  TARGET_IMPLIB = libLab81.dll.a
+  TARGET_PDB = Lab81.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Lab84
+
+
+#############################################
+# Order-only phony target for Lab84
+
+build cmake_object_order_depends_target_Lab84: phony || CMakeFiles/Lab84.dir
+
+build CMakeFiles/Lab84.dir/labs/lab8_4.c.obj: C_COMPILER__Lab84_Debug D$:/Programirane/C/CLion/SP2022/labs/lab8_4.c || cmake_object_order_depends_target_Lab84
+  DEP_FILE = CMakeFiles\Lab84.dir\labs\lab8_4.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Lab84.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab84.dir\labs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Lab84
+
+
+#############################################
+# Link the executable Lab84.exe
+
+build Lab84.exe: C_EXECUTABLE_LINKER__Lab84_Debug CMakeFiles/Lab84.dir/labs/lab8_4.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Lab84.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Lab84.exe
+  TARGET_IMPLIB = libLab84.dll.a
+  TARGET_PDB = Lab84.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Lab85
+
+
+#############################################
+# Order-only phony target for Lab85
+
+build cmake_object_order_depends_target_Lab85: phony || CMakeFiles/Lab85.dir
+
+build CMakeFiles/Lab85.dir/labs/lab8_5.c.obj: C_COMPILER__Lab85_Debug D$:/Programirane/C/CLion/SP2022/labs/lab8_5.c || cmake_object_order_depends_target_Lab85
+  DEP_FILE = CMakeFiles\Lab85.dir\labs\lab8_5.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Lab85.dir
+  OBJECT_FILE_DIR = CMakeFiles\Lab85.dir\labs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Lab85
+
+
+#############################################
+# Link the executable Lab85.exe
+
+build Lab85.exe: C_EXECUTABLE_LINKER__Lab85_Debug CMakeFiles/Lab85.dir/labs/lab8_5.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Lab85.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Lab85.exe
+  TARGET_IMPLIB = libLab85.dll.a
+  TARGET_PDB = Lab85.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -867,7 +966,13 @@ build Lab655: phony Lab655.exe
 
 build Lab72: phony Lab72.exe
 
+build Lab81: phony Lab81.exe
+
 build Lab83: phony Lab83.exe
+
+build Lab84: phony Lab84.exe
+
+build Lab85: phony Lab85.exe
 
 build SP2022: phony SP2022.exe
 
@@ -879,7 +984,7 @@ build SP2022: phony SP2022.exe
 #############################################
 # Folder: D:/Programirane/C/CLion/SP2022/cmake-build-debug
 
-build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe
+build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe Lab81.exe Lab84.exe Lab85.exe
 
 # =============================================================================
 # Built-in targets
