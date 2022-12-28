@@ -11,7 +11,7 @@
 1
 For example:
 ---------------------
- Input  |	 Result
+ Input  |  Result
 --------|------------
  3      |  1 2 3
         |  1 2
