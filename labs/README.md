@@ -4,11 +4,12 @@
 Да се прочитаат два цели броеви од тастатура и на екран да се испечатат нивните сума и производ.
 
 For example:
- Input   |  Result 
- ---------|---------
- 5 6 | 11<br>30
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_1.c)
+
+| Input | Result   |
+|-------|----------|
+| 5 6   | 11<br>30 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_1.c)
 
 ----
 ### zad. 2
@@ -33,9 +34,10 @@ For example:
 1*1
 
 For example:
- Input   |  Result 
- ---------|---------
- 54321 | 10 * 5000<br>4 * 1000<br>0 * 500<br>3 * 100<br>0 * 50<br>2 * 10<br>0 * 5<br>0 * 2<br>1 * 1
+
+| Input | Result                                                                                     |
+|-------|--------------------------------------------------------------------------------------------|
+| 54321 | 10 * 5000<br>4 * 1000<br>0 * 500<br>3 * 100<br>0 * 50<br>2 * 10<br>0 * 5<br>0 * 2<br>1 * 1 |
  
  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_2.c)
 
@@ -44,9 +46,10 @@ For example:
 Да се напише програма која пресметува просечна оцена во семестар. Програмата чита 5 цели броја. Треба да се испечати еден реален број на две децимали, просек на прочитаните броеви.
 
 For example:
- Input   |  Result 
- ---------|---------
-6 6 6 6 7 | 6.20
+
+| Input     | Result |
+|-----------|--------|
+| 6 6 6 6 7 | 6.20   |
  
  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_3.c)
 
@@ -56,11 +59,12 @@ For example:
 Да се напише програма, каде што за даден број N внесен преку тастатура, ќе испечати: "Tik" доколку е делив со 3, "Tak" доколку е делив со 5, "Tik - Tak" доколку е делив со 3 и со 5. Доколку бројот не е делив со 3 ни со 5, тогаш да се испечати "Losh Broj". (Без наводници, ставени се за читливост)
 
 For example:
- Input   |  Result 
- ---------|---------
- 3 | Tik
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_1.c)
+
+| Input | Result |
+|-------|--------|
+| 3     | Tik    |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_1.c)
  
 ----
 ### zad. 2
@@ -73,22 +77,24 @@ For example:
 Доколку бројот n не содржи најмалку 2 цифри петки, да се испечати порака за грешка како во тест примерите.
 
 For example:
- Input   |  Result 
- ---------|---------
-5500 | 20.0000%
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_2.c)
+
+| Input | Result   |
+|-------|----------|
+| 5500  | 20.0000% |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_2.c)
  
 ----
 ### zad. 3
 Пресметајте ја цената за електрична енергија која еден корисник треба да ја плати, во зависност од тоа колку kWh потрошил. За помалку 500 kWh се наплаќа 5 ден/kWh. Ако трошокот ја надмине оваа граница, тогаш за наредните 150 kWh се наплаќа 7.5 ден/kWh, за наредните 200 kWh се наплаќа 11 ден/kWh, а за секој трошок над тоа се доплаќа уште 13.5 ден/kWh. На крајот на сметката се додава 10% ДДВ доколку изнесува 7000 денари или помалку, додека ако изнесува повеќе од тоа, се додава 18% ДДВ.
 
 For example:
- Input   |  Result 
- --------|---------
-1000 | 9263.00
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_3.c)
+
+| Input | Result  |
+|-------|---------|
+| 1000  | 9263.00 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_3.c)
  
 ----
 ## Lab 5
@@ -98,11 +104,12 @@ For example:
  да се отпечати остатокот при делењето на тој број со 5 во Морзеов код.
  
  For example:
- Input   |  Result 
- ---------|---------
- 3<br>2005<br>18<br>1 | -----<br>...--<br>.----
  
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_1.c)
+| Input                | Result                  |
+|----------------------|-------------------------|
+| 3<br>2005<br>18<br>1 | -----<br>...--<br>.---- |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_1.c)
  
  ----
  ### zad. 2
@@ -112,11 +119,12 @@ For example:
  ако дадената точка лежи врз правоаголникот (во правоаголникот и на страните) и NE ако е надвор од него.
  
  For example:
- Input   |  Result 
- ---------|---------
- 5 5<br>25 15<br>10 10<br>32 8 | DA<br>NE
  
-  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_2.c)
+| Input                         | Result   |
+|-------------------------------|----------|
+| 5 5<br>25 15<br>10 10<br>32 8 | DA<br>NE |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_2.c)
  
  ----
 ### zad. 3
@@ -127,13 +135,14 @@ For example:
  За времето на пладне (12:00:00) после него се печати NOON.
  
  For example:
- Input   |  Result 
- ---------|:---------:
- 0<br>32<br>58 | 12:32:58AM
- 12<br>0<br>0 | 12:00:00NOON
- 21<br>17<br>22 | 09:17:22PM
  
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_3.c)
+| Input          |    Result    |
+|----------------|:------------:|
+| 0<br>32<br>58  |  12:32:58AM  |
+| 12<br>0<br>0   | 12:00:00NOON |
+| 21<br>17<br>22 |  09:17:22PM  |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_3.c)
  
  ----
 ## Lab 7
@@ -145,11 +154,12 @@ For example:
 Да се испечати трансформираната матрица на екран (Секој елемент од матрицата се печати со 3 места %3d).
 
 For example:
- Input   |  Result 
- ---------|---------
- 5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>-1 -2 -3 -4 -5<br>-5 -6 -7 -8 -9 |  -1   2   3   4   5<br>  6  -7   8   9  10<br> 11  12 -13  14  15<br> -1  -2  -3   4  -5<br> -5  -6  -7  -8   9
  
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_1.c)
+| Input                                                                              | Result                                                                                                          |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>-1 -2 -3 -4 -5<br>-5 -6 -7 -8 -9 |  -1   2   3   4   5<br>  6  -7   8   9  10<br> 11  12 -13  14  15<br> -1  -2  -3   4  -5<br> -5  -6  -7  -8   9 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_1.c)
  
  ----
 ### zad. 2
@@ -171,11 +181,12 @@ For example:
 - (21-1)/(21-1) = 20/20 = 1.00
 
 For example:
-Input   |  Result 
- ---------|---------
- 5 5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>16 17 18 19 20<br>21 22 23 24 25 | 0.00 0.00 0.00 0.00 0.00<br>0.25 0.25 0.25 0.25 0.25<br>0.50 0.50 0.50 0.50 0.50<br>0.75 0.75 0.75 0.75 0.75<br>1.00 1.00 1.00 1.00 1.00
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_2.c)
+
+| Input                                                                                | Result                                                                                                                                   |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 5 5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>16 17 18 19 20<br>21 22 23 24 25 | 0.00 0.00 0.00 0.00 0.00<br>0.25 0.25 0.25 0.25 0.25<br>0.50 0.50 0.50 0.50 0.50<br>0.75 0.75 0.75 0.75 0.75<br>1.00 1.00 1.00 1.00 1.00 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_2.c)
  
  ----
  ### zad. 3
@@ -188,11 +199,12 @@ Input   |  Result
 Потребно е матрицата да се здипли како што е прикажано на сликата. При диплење на матрицата, се собираат елементите на позициите што се поклопуваат при диплењето.
  
 For example:
-Input   |  Result 
- ---------|---------
- 4<br>1 2 3 4<br>5 6 7 8<br>9 10 11 12<br>13 14 15 16 | 34 34<br>34 34
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_3.c)
+
+| Input                                                | Result         |
+|------------------------------------------------------|----------------|
+| 4<br>1 2 3 4<br>5 6 7 8<br>9 10 11 12<br>13 14 15 16 | 34 34<br>34 34 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_3.c)
  
  ----
 ## Lab 8
@@ -209,9 +221,10 @@ Input   |  Result
 Бонус: Направете ја функцијата nextDivisibleByK рекурзивна.
 
 For example:
- | Input   |  Result |
- |---------|---------|
- |  10 20 7 | 10 -> 14 <br> 11 -> 14 <br> 12 -> 14 <br> 13 -> 14 <br> 14 -> 21 <br> 15 -> 21 <br> 16 -> 21 <br> 17 -> 21 <br> 18 -> 21 <br> 19 -> 21 <br> 20 -> 21 |
+
+| Input   | Result                                                                                                                                               |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10 20 7 | 10 -> 14 <br> 11 -> 14 <br> 12 -> 14 <br> 13 -> 14 <br> 14 -> 21 <br> 15 -> 21 <br> 16 -> 21 <br> 17 -> 21 <br> 18 -> 21 <br> 19 -> 21 <br> 20 -> 21 |
 
  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_1.c)
  
@@ -220,9 +233,10 @@ For example:
 Да се напише рекурзивна функција преку која бројот ќе се трансформира на тој начин што секоја непарна цифра ќе се намали за 1, а парните цифри ќе бидат заменети со нула. Функцијата треба да го врати трансформираниот број. Да се напише и главна програма која ќе ја тестира работата на функцијата.
 
 For example:
- | Input   |  Result |
- |---------|---------|
- | 93854   | Brojot e 82040 |
+ 
+| Input | Result         |
+|-------|----------------|
+ | 93854 | Brojot e 82040 |
  
   [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_2.c)
   
@@ -238,11 +252,12 @@ For example:
 Печатењето треба да е во следен формат: 1234 (suma:  10)
 
 For example:
- | Input   |  Result |
- |---------|---------|
- 5<br>257 391 423 789 269 | 257 (suma: 14)<br>789 (suma: 24)<br>269 (suma: 17)
  
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_3.c)
+| Input                    | Result                                             |
+|--------------------------|----------------------------------------------------|
+| 5<br>257 391 423 789 269 | 257 (suma: 14)<br>789 (suma: 24)<br>269 (suma: 17) |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_3.c)
  
   ----
 ### Extra
@@ -255,11 +270,11 @@ For example:
 
 For example:
 
- Input  |  Result
---------|----------
- 1 2 3  |  3 2 1
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_1.c)
+| Input | Result |
+|-------|--------|
+| 1 2 3 | 3 2 1  |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_1.c)
 
   ----
 ### zad. 2
@@ -277,11 +292,12 @@ For example:
 Да се испечати на екран низата со скалирани поени. Да не се користи помошна низа за решавање на задачата, односно трансформацијата на низата да биде  in-place.
 
 For example:
-Input           |  Result
-----------------|---------------------------------
- 5<br>10 20 30 40 82 | 12.20 24.39 36.59 48.78 100.00
- 
- [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_2.c)
+
+| Input               | Result                         |
+|---------------------|--------------------------------|
+| 5<br>10 20 30 40 82 | 12.20 24.39 36.59 48.78 100.00 |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_2.c)
  
 ----
 ### zad. 3
@@ -295,8 +311,8 @@ Input           |  Result
 
 For example:
 
-| Input  |  Result
-|--------|------------
-|3       |  1 2 3<br>1 2<br>1
+| Input | Result            |
+|-------|-------------------|
+| 3     | 1 2 3<br>1 2<br>1 |
 
 [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_3.c)
