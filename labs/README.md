@@ -8,7 +8,7 @@ For example:
  ---------|---------
  5 6 | 11<br>30
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_1.c)
 
 ----
 ### zad. 2
@@ -37,7 +37,7 @@ For example:
  ---------|---------
  54321 | 10 * 5000<br>4 * 1000<br>0 * 500<br>3 * 100<br>0 * 50<br>2 * 10<br>0 * 5<br>0 * 2<br>1 * 1
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_2.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_2.c)
 
 ----
 ### zad. 3
@@ -48,7 +48,7 @@ For example:
  ---------|---------
 6 6 6 6 7 | 6.20
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_3.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab1_3.c)
 
 ----
 ## Lab 3
@@ -60,7 +60,7 @@ For example:
  ---------|---------
  3 | Tik
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_1.c)
  
 ----
 ### zad. 2
@@ -77,7 +77,7 @@ For example:
  ---------|---------
 5500 | 20.0000%
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_2.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_2.c)
  
 ----
 ### zad. 3
@@ -88,7 +88,7 @@ For example:
  --------|---------
 1000 | 9263.00
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_3.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab3_3.c)
  
 ----
 ## Lab 5
@@ -102,7 +102,7 @@ For example:
  ---------|---------
  3<br>2005<br>18<br>1 | -----<br>...--<br>.----
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab5_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_1.c)
  
  ----
  ### zad. 2
@@ -116,7 +116,7 @@ For example:
  ---------|---------
  5 5<br>25 15<br>10 10<br>32 8 | DA<br>NE
  
-  [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab5_2.c)
+  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_2.c)
  
  ----
 ### zad. 3
@@ -133,7 +133,7 @@ For example:
  12<br>0<br>0 | 12:00:00NOON
  21<br>17<br>22 | 09:17:22PM
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab5_3.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab5_3.c)
  
  ----
 ## Lab 7
@@ -149,7 +149,7 @@ For example:
  ---------|---------
  5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>-1 -2 -3 -4 -5<br>-5 -6 -7 -8 -9 |  -1   2   3   4   5<br>  6  -7   8   9  10<br> 11  12 -13  14  15<br> -1  -2  -3   4  -5<br> -5  -6  -7  -8   9
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab7_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_1.c)
  
  ----
 ### zad. 2
@@ -175,7 +175,7 @@ Input   |  Result
  ---------|---------
  5 5<br>1 2 3 4 5<br>6 7 8 9 10<br>11 12 13 14 15<br>16 17 18 19 20<br>21 22 23 24 25 | 0.00 0.00 0.00 0.00 0.00<br>0.25 0.25 0.25 0.25 0.25<br>0.50 0.50 0.50 0.50 0.50<br>0.75 0.75 0.75 0.75 0.75<br>1.00 1.00 1.00 1.00 1.00
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab7_2.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_2.c)
  
  ----
  ### zad. 3
@@ -192,7 +192,7 @@ Input   |  Result
  ---------|---------
  4<br>1 2 3 4<br>5 6 7 8<br>9 10 11 12<br>13 14 15 16 | 34 34<br>34 34
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab7_3.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_3.c)
  
  ----
 ## Lab 8
@@ -213,7 +213,7 @@ For example:
  |---------|---------|
  |  10 20 7 | 10 -> 14 <br> 11 -> 14 <br> 12 -> 14 <br> 13 -> 14 <br> 14 -> 21 <br> 15 -> 21 <br> 16 -> 21 <br> 17 -> 21 <br> 18 -> 21 <br> 19 -> 21 <br> 20 -> 21 |
 
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab8_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_1.c)
  
  ----
 ### zad. 2
@@ -224,7 +224,7 @@ For example:
  |---------|---------|
  | 93854   | Brojot e 82040 |
  
-  [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab8_2.c)
+  [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_2.c)
   
    ----
  ### zad. 3
@@ -242,12 +242,12 @@ For example:
  |---------|---------|
  5<br>257 391 423 789 269 | 257 (suma: 14)<br>789 (suma: 24)<br>269 (suma: 17)
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab8_3.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_3.c)
  
   ----
 ### Extra
-[zad 4](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab8_4.c) | 
-[zad 5](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab8_5.c)
+[zad 4](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_4.c) | 
+[zad 5](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab8_5.c)
 ## Lab 9
 ### zad. 1
 Да се напише функција void sort (int x, int y, int z) која што ќе ги сортира во опаѓачки редослед трите броја, односно во x ќе биде сместен најголемиот број, а во z најмалиот. 
@@ -259,7 +259,7 @@ For example:
 --------|----------
  1 2 3  |  3 2 1
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab9_1.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_1.c)
 
   ----
 ### zad. 2
@@ -281,7 +281,7 @@ Input           |  Result
 ----------------|---------------------------------
  5<br>10 20 30 40 82 | 12.20 24.39 36.59 48.78 100.00
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab9_2.c)
+ [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_2.c)
  
 ----
 ### zad. 3
@@ -299,4 +299,4 @@ For example:
 |--------|------------
 |3       |  1 2 3<br>1 2<br>1
 
-[resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab9_3.c)
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_3.c)
