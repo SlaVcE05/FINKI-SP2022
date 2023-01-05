@@ -8,7 +8,7 @@ For example:
  ---------|---------
  5 6 | 11<br>30
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_1.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_1.c)
 
 ----
 ### zad. 2
@@ -37,7 +37,7 @@ For example:
  ---------|---------
  54321 | 10 * 5000<br>4 * 1000<br>0 * 500<br>3 * 100<br>0 * 50<br>2 * 10<br>0 * 5<br>0 * 2<br>1 * 1
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_2.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_2.c)
 
 ----
 ### zad. 3
@@ -48,7 +48,7 @@ For example:
  ---------|---------
 6 6 6 6 7 | 6.20
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_3.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab1_3.c)
 
 ----
 ## Lab 3
@@ -60,7 +60,7 @@ For example:
  ---------|---------
  3 | Tik
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_1.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_1.c)
  
 ----
 ### zad. 2
@@ -77,7 +77,7 @@ For example:
  ---------|---------
 5500 | 20.0000%
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_2.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_2.c)
  
 ----
 ### zad. 3
@@ -88,7 +88,7 @@ For example:
  --------|---------
 1000 | 9263.00
  
- [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_3.c) (N/A)
+ [resenie na zadacata](https://github.com/SlaVcE14/FINKI-SP2022/blob/main/labs/lab3_3.c)
  
 ----
 ## Lab 5
