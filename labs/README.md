@@ -205,8 +205,9 @@ For example:
 | 4<br>1 2 3 4<br>5 6 7 8<br>9 10 11 12<br>13 14 15 16 | 34 34<br>34 34 |
 
 [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab7_3.c)
- 
+
  ----
+
 ## Lab 8
 ### zad. 1
 Да се дефинираат функциите:
@@ -316,3 +317,51 @@ For example:
 | 3     | 1 2 3<br>1 2<br>1 |
 
 [resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab9_3.c)
+
+---
+## Lab 9
+## zad.1
+Од стандарден влез да се прочита една низа од знаци со најмногу 100 карактери. Да се трансформира низата така што левата и десната половина од стрингот ќе си ги сменат местата.
+
+Напомена: Сите тест примери ќе имаат парен број на знаци.
+
+For example:
+
+| Input      | Result     |
+|------------|------------|
+| Stefan     | fanSte     |
+| Strukturno | turnoStruk |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab10_1.c)
+
+---
+## zad.2
+Од стандарден влез се вчитува бројот N, бројот K и знакот C. Потоа се вчитуваат N текстуални низи (секоја во нов ред).
+Да се испечати на екран најдолгата текстуала низа која го содржи знакот C точно K пати без разлика на големината на буквата.
+Ако нема таква низа, да се испечати порака NONE.
+
+For example:
+
+| Input                                                                                                                        | 	Result            |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| 2 5 a <br/>Strukturno <br/> programiranje                                                                                    | NONE               |
+| 2 2 a <br/> Strukturno <br/> programiranje vo c <br/> programiranje vo c++ <br/> programiranje vo python <br/> programiranje | programiranje vo c |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab10_2.c) (N/A)
+
+---
+## zad.3
+Да се напише програма која што од датотека со име `text.txt` ќе ја одреди и ќе ја испечати на стандарден излез релативната фреквенција на буквата c која се вчитува од тастатура.
+
+Релативната фреквенција на буквата се пресметува како количник на вкупното појавување на таа буква (без разлика на големината на буквата) со вкупниот број на карактери во текстот (да се игнорираат празните места и специјалните знаци).
+
+Да не се менува функцијата writeToFile().
+
+For example:
+
+| Input                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Result  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur tempus enim, id imperdiet nisl rhoncus et. Nunc aliquam suscipit ex eget tincidunt. Nullam finibus ipsum congue, tempus quam et, condimentum diam. MAECENAS COMMODO est NIBH, ac condimentum neque ultrices in. Donec varius lectus nibh. Praesent quis turpis quis purus venenatis condimentum id molestie erat. In viverra dignissim congue. Sed sit amet malesuada metus, ut egestas massa. Vivamus pretium, dui at hendrerit pharetra, nunc augue dignissim lorem, in suscipit tortor ligula quis tellus. Sed porttitor enim non faucibus facilisis. Phasellus accumsan tincidunt est, quis imperdiet mauris commodo vel. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum vestibulum massa suscipit quam mollis, quis hendrerit quam tempor. In feugiat viverra condimentum. Donec volutpat est enim, ut malesuada libero pulvinar vel. In hac habitasse.#A | 0.0689  |
+| [all tests](files/lab10_3 all tests.txt)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+[resenie na zadacata](https://github.com/SlaVcE05/FINKI-SP2022/blob/main/labs/lab10_3.c)
