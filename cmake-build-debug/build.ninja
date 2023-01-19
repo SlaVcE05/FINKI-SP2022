@@ -569,6 +569,72 @@ build I_zad15.exe: C_EXECUTABLE_LINKER__I_zad15_Debug CMakeFiles/I_zad15.dir/prv
   TARGET_PDB = I_zad15.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target II_zad1
+
+
+#############################################
+# Order-only phony target for II_zad1
+
+build cmake_object_order_depends_target_II_zad1: phony || CMakeFiles/II_zad1.dir
+
+build CMakeFiles/II_zad1.dir/vtor_kolokvium_ispit_vezbi/zad_1.c.obj: C_COMPILER__II_zad1_Debug D$:/Programirane/C/CLion/SP2022/vtor$ kolokvium_ispit$ vezbi/zad_1.c || cmake_object_order_depends_target_II_zad1
+  DEP_FILE = CMakeFiles\II_zad1.dir\vtor_kolokvium_ispit_vezbi\zad_1.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\II_zad1.dir
+  OBJECT_FILE_DIR = CMakeFiles\II_zad1.dir\vtor_kolokvium_ispit_vezbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target II_zad1
+
+
+#############################################
+# Link the executable II_zad1.exe
+
+build II_zad1.exe: C_EXECUTABLE_LINKER__II_zad1_Debug CMakeFiles/II_zad1.dir/vtor_kolokvium_ispit_vezbi/zad_1.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\II_zad1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = II_zad1.exe
+  TARGET_IMPLIB = libII_zad1.dll.a
+  TARGET_PDB = II_zad1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target II_zad2
+
+
+#############################################
+# Order-only phony target for II_zad2
+
+build cmake_object_order_depends_target_II_zad2: phony || CMakeFiles/II_zad2.dir
+
+build CMakeFiles/II_zad2.dir/vtor_kolokvium_ispit_vezbi/zad_2.c.obj: C_COMPILER__II_zad2_Debug D$:/Programirane/C/CLion/SP2022/vtor$ kolokvium_ispit$ vezbi/zad_2.c || cmake_object_order_depends_target_II_zad2
+  DEP_FILE = CMakeFiles\II_zad2.dir\vtor_kolokvium_ispit_vezbi\zad_2.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\II_zad2.dir
+  OBJECT_FILE_DIR = CMakeFiles\II_zad2.dir\vtor_kolokvium_ispit_vezbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target II_zad2
+
+
+#############################################
+# Link the executable II_zad2.exe
+
+build II_zad2.exe: C_EXECUTABLE_LINKER__II_zad2_Debug CMakeFiles/II_zad2.dir/vtor_kolokvium_ispit_vezbi/zad_2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\II_zad2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = II_zad2.exe
+  TARGET_IMPLIB = libII_zad2.dll.a
+  TARGET_PDB = II_zad2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Lab53
 
 
@@ -990,6 +1056,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build II_zad1: phony II_zad1.exe
+
+build II_zad2: phony II_zad2.exe
+
 build I_zad1: phony I_zad1.exe
 
 build I_zad10: phony I_zad10.exe
@@ -1054,7 +1124,7 @@ build SP2022: phony SP2022.exe
 #############################################
 # Folder: D:/Programirane/C/CLion/SP2022/cmake-build-debug
 
-build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe Lab81.exe Lab84.exe Lab85.exe Lab92.exe Lab103.exe
+build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe II_zad1.exe II_zad2.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe Lab81.exe Lab84.exe Lab85.exe Lab92.exe Lab103.exe
 
 # =============================================================================
 # Built-in targets

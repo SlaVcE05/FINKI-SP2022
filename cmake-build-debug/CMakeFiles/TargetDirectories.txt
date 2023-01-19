@@ -14,6 +14,8 @@ D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad12.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad13.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad14.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/I_zad15.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/II_zad1.dir
+D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/II_zad2.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab53.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab64.dir
 D:/Programirane/C/CLion/SP2022/cmake-build-debug/CMakeFiles/Lab65.dir
