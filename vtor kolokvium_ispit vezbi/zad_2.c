@@ -10,18 +10,17 @@ https://github.com/SlaVcE05/FINKI-SP2022/tree/main/vtor%20kolokvium_ispit%20vezb
 
 
 #include <stdio.h>
-#include <ctype.h>
-#include <string.h>
-#include <stdio.h>
+#include <stdlib.h>
 #define MAX 100
 
-//todo full path
-#define PATH "..\\broevi.txt"
 
+int readNun(FILE *f, int len);
+
+int getFirstNum(int num);
 
 //ne menuvaj!
 void wtf() {
-    FILE *f = fopen(PATH, "w");
+    FILE *f = fopen("broevi.txt", "w");
     char c;
     while((c = getchar()) != EOF) {
         fputc(c, f);
@@ -35,5 +34,47 @@ int main()
 
     // vashiot kod ovde
 
+    char string[MAX];
 
+    FILE *f = fopen("broevi.txt", "r");
+
+    while ((fscanf(f, "%s", string))){
+
+        int len = atoi(string);
+
+        if (len == 0)
+            break;
+
+        printf("%d\n", readNun(f,len));
+    }
+
+    fclose(f);
+
+}
+
+int readNun(FILE *f, int len) {
+    char str[MAX];
+    int fNum, num = 0;
+
+    for (int i = 0; i < len; i++) {
+        fscanf(f,"%s",str);
+        int num1 = getFirstNum(atoi(str));
+        if (num1 > num){
+            num = num1;
+            fNum = atoi(str);
+        }
+    }
+    return fNum;
+
+}
+
+int getFirstNum(int num) {
+
+    int first = 0;
+    while (num){
+        if(num < 10)
+            first = num;
+        num /= 10;
+    }
+    return first;
 }
