@@ -4,7 +4,7 @@
  со најголема најзначајна цифра. Читањето на броеви завршува кога ќе се прочита 0.
 
 For example:
-https://github.com/SlaVcE05/FINKI-SP2022/tree/main/vtor%20kolokvium_ispit%20vezbi#zad-2
+https://github.com/SlaVcE05/FINKI-SP2022/tree/main/vtor%20kolokvium_ispit%20vezbi#zad2
 
  * */
 
