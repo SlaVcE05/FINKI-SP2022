@@ -701,6 +701,39 @@ build II_zad4.exe: C_EXECUTABLE_LINKER__II_zad4_Debug CMakeFiles/II_zad4.dir/vto
   TARGET_PDB = II_zad4.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target II_zad6
+
+
+#############################################
+# Order-only phony target for II_zad6
+
+build cmake_object_order_depends_target_II_zad6: phony || CMakeFiles/II_zad6.dir
+
+build CMakeFiles/II_zad6.dir/vtor_kolokvium_ispit_vezbi/zad_6.c.obj: C_COMPILER__II_zad6_Debug D$:/Programirane/C/CLion/SP2022/vtor$ kolokvium_ispit$ vezbi/zad_6.c || cmake_object_order_depends_target_II_zad6
+  DEP_FILE = CMakeFiles\II_zad6.dir\vtor_kolokvium_ispit_vezbi\zad_6.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\II_zad6.dir
+  OBJECT_FILE_DIR = CMakeFiles\II_zad6.dir\vtor_kolokvium_ispit_vezbi
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target II_zad6
+
+
+#############################################
+# Link the executable II_zad6.exe
+
+build II_zad6.exe: C_EXECUTABLE_LINKER__II_zad6_Debug CMakeFiles/II_zad6.dir/vtor_kolokvium_ispit_vezbi/zad_6.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\II_zad6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = II_zad6.exe
+  TARGET_IMPLIB = libII_zad6.dll.a
+  TARGET_PDB = II_zad6.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Lab53
 
 
@@ -1130,6 +1163,8 @@ build II_zad3: phony II_zad3.exe
 
 build II_zad4: phony II_zad4.exe
 
+build II_zad6: phony II_zad6.exe
+
 build I_zad1: phony I_zad1.exe
 
 build I_zad10: phony I_zad10.exe
@@ -1194,7 +1229,7 @@ build SP2022: phony SP2022.exe
 #############################################
 # Folder: D:/Programirane/C/CLion/SP2022/cmake-build-debug
 
-build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe II_zad1.exe II_zad2.exe II_zad3.exe II_zad4.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe Lab81.exe Lab84.exe Lab85.exe Lab92.exe Lab103.exe
+build all: phony SP2022.exe I_zad1.exe I_zad2.exe I_zad3.exe I_zad4.exe I_zad5.exe I_zad6.exe I_zad7.exe I_zad8.exe I_zad9.exe I_zad10.exe I_zad11.exe I_zad12.exe I_zad13.exe I_zad14.exe I_zad15.exe II_zad1.exe II_zad2.exe II_zad3.exe II_zad4.exe II_zad6.exe Lab53.exe Lab64.exe Lab65.exe Lab655.exe Lab52.exe Lab72.exe Lab83.exe Lab81.exe Lab84.exe Lab85.exe Lab92.exe Lab103.exe
 
 # =============================================================================
 # Built-in targets

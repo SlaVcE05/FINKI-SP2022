@@ -10,7 +10,7 @@
 118	268	6903096493905815	zad1.exe	be896bcb18af1c00
 4	159	6959333864709242	CMakeFiles/II_zad2.dir/vtor_kolokvium_ispit_vezbi/zad_2.c.obj	7ef57f4455e7e69e
 129	452	6903097585985218	zad2.exe	ced9c799c38e00bc
-1	315	6959370893937233	build.ninja	94b26c6e97bb4926
+1	315	6959483659254679	build.ninja	94b26c6e97bb4926
 3	108	6910172341935045	CMakeFiles/I_zad9.dir/prv_kolokvium_vezbi/zad9.c.obj	78d9e067c5c817f2
 155	352	6939744325089912	Lab92.exe	37515eaa1145552
 1	458	6903100261264054	CMakeFiles/I_zad4.dir/prv_kolokvium/zad4.c.obj	6dd06a26364b9983
@@ -37,6 +37,7 @@
 5	133	6927390817067163	CMakeFiles/Lab65.dir/labs/lab6_5.c.obj	fd8d8eb5f906e309
 134	408	6927390819681321	Lab65.exe	87936bc01cd591a
 4	152	6926778011260834	CMakeFiles/Lab655.dir/labs/lab6_55.c.obj	50fc6fde07264046
+3	144	6959374939985502	CMakeFiles/II_zad4.dir/vtor_kolokvium_ispit_vezbi/zad_4.c.obj	3303101c1a9337f1
 152	348	6926778013155782	Lab655.exe	a45b9002b0563ade
 168	404	6957871529962908	II_zad1.exe	b9c46e097323bf94
 3	355	6927482225978374	CMakeFiles/Lab654.dir/labs/lab5_2.c.obj	60d4df3800dd8eed
@@ -55,11 +56,8 @@
 4	168	6957871527868536	CMakeFiles/II_zad1.dir/vtor_kolokvium_ispit_vezbi/zad_1.c.obj	7b3d5c5107f648f4
 1	378	6959350875342042	CMakeFiles/II_zad3.dir/vtor_kolokvium_ispit_vezbi/zad_3.c.obj	cb5a9d54baac7f29
 379	646	6959350878643215	II_zad3.exe	e13dcbd91d15b845
-0	485	6959371031496618	CMakeFiles/II_zad4.dir/vtor_kolokvium_ispit_vezbi/zad_4.c.obj	3303101c1a9337f1
-485	714	6959371033815800	II_zad4.exe	f45cc89e545c009c
-4	180	6959371497226417	CMakeFiles/II_zad4.dir/vtor_kolokvium_ispit_vezbi/zad_4.c.obj	3303101c1a9337f1
-181	406	6959371499430595	II_zad4.exe	f45cc89e545c009c
-4	243	6959372117937890	CMakeFiles/II_zad4.dir/vtor_kolokvium_ispit_vezbi/zad_4.c.obj	3303101c1a9337f1
-244	575	6959372121538262	II_zad4.exe	f45cc89e545c009c
-3	144	6959374939985502	CMakeFiles/II_zad4.dir/vtor_kolokvium_ispit_vezbi/zad_4.c.obj	3303101c1a9337f1
 144	629	6959374943765378	II_zad4.exe	f45cc89e545c009c
+0	394	6959483767655665	CMakeFiles/II_zad6.dir/vtor_kolokvium_ispit_vezbi/zad_6.c.obj	e9f7825f6fa529b
+395	859	6959483773098850	II_zad6.exe	8493fec998030054
+4	232	6959485732011444	CMakeFiles/II_zad6.dir/vtor_kolokvium_ispit_vezbi/zad_6.c.obj	e9f7825f6fa529b
+232	534	6959485734614483	II_zad6.exe	8493fec998030054
